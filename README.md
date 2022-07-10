@@ -7,7 +7,7 @@
 ## Description
 🔍 This application is a backend for an ecommerce store which uses mySQL, express, and Sequelize.
 A user can access all of their inventory by hitting the /categories , /products and /tags endpoints. 
-The user can also add new products and categories as well
+The user can also add new products, tags, and categories as well
 
 https://drive.google.com/file/d/1CgF3loPwHZEIcP1nwhCgFxrUnL8Fgw3r/view
 https://drive.google.com/file/d/14fik_ItX-oGfDPgMMXnZF_ZvnxRbP2s1/view
